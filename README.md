@@ -32,16 +32,12 @@ I am **Dharm Prakash**, an **M.Sc. Statistics student at Banaras Hindu Universit
 
 I enjoy combining **statistical thinking with machine learning** to solve real-world problems and extract meaningful insights from data.
 
-Currently, my research focuses on **missing data imputation, fairness, and explainability in machine learning**, along with practical applications in healthcare and other domains.
-
 ### 🔎 Areas of Interest
 
 - 📊 Statistical Modeling & Data Analysis
 - 🤖 Machine Learning & Deep Learning
 - 🧠 Generative AI
 - 🏥 Healthcare Analytics
-- 📉 Missing Data & Imputation
-- ⚖️ Fairness & Explainable AI
 - 📈 Statistical Inference & Regression
 
 ---
