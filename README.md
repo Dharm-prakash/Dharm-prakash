@@ -1,13 +1,15 @@
 <!-- ===================== HERO ===================== -->
 
-<br>
-
 <div align="center">
 
 <img src="./hero.png" width="100%" alt="Dharm Prakash"/>
 
-<!-- Social Links - Left Bottom -->
-<div align="left">
+<!-- Clickable Links -->
+<table width="100%" style="margin-top:-75px;">
+<tr>
+<td width="4%"></td>
+
+<td align="left">
 
 <a href="https://github.com/Dharm-prakash">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,10 +27,11 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</td>
+</tr>
+</table>
+
 </div>
-
-<br>
-
 
 <img src="https://img.shields.io/badge/%20Statistical%20Modeling%20%26%20Data%20Analysis-3B82F6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%20Machine%20Learning%20%26%20Deep%20Learning-8B5CF6?style=for-the-badge"/>
