@@ -48,38 +48,25 @@ Currently, my research focuses on **missing data imputation, fairness, and expla
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
 
-### 🤖 Machine Learning & Deep Learning
-
-<p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-</p>
 
-### 📊 Data Science & Visualization
-
-<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
 
-### ⚙️ Tools
-
-<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -186,28 +173,6 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 </table>
 
 <br>
-
-### 🧠 Most Used Languages
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_radius=16"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&border_radius=16"
-  />
-
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&border_radius=16"
-    width="55%"
-  />
-</picture>
-
-</div>
-
 
 ## 🌐 Connect With Me
 
