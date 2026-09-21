@@ -1,18 +1,78 @@
-# 💫 About Me:
-I am Dharm Prakash, an M.Sc. Statistics student at BHU with a passion for Data Science & Machine Learning.<br>Python, C, SQL, Machine Learning, Deep Learning<br>Statistics, Data Analytics, Generative AI
+<div align="center">
 
+<img src="./assets/banner.svg" alt="Dharm Prakash — We turn data into decision" width="100%">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.alberto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmprakash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmprakash.stats@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dharm-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Dharm-prakash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-Dharm--prakash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dharm-prakash)
+[![Kaggle](https://img.shields.io/badge/Kaggle-alberto112-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/alberto112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dharmprakash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmprakash)
+[![Instagram](https://img.shields.io/badge/Instagram-__.alberto__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__.alberto_)
+[![Email](https://img.shields.io/badge/Email-dharmprakash.stats-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dharmprakash.stats@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dharm-prakash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+### About Me
+
+I am Dharm Prakash, an M.Sc. Statistics student at BHU with a passion for Data Science & Machine Learning.
+
+`Python` · `C` · `SQL` · `Machine Learning` · `Deep Learning`
+`Statistics` · `Data Analytics` · `Generative AI`
+
+</div>
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+<sub><b>LANGUAGES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=c,py,r&theme=dark" height="46" alt="Languages">
+<img src="https://cdn.simpleicons.org/oracle" height="34" alt="Oracle">
+
+<sub><b>MACHINE LEARNING & DEEP LEARNING</b></sub><br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,keras,pytorch,scipy&theme=dark" height="46" alt="ML and DL">
+<img src="https://cdn.simpleicons.org/mlflow" height="34" alt="MLflow">
+
+<sub><b>DATA & VISUALIZATION</b></sub><br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" height="46" alt="Data">
+
+<sub><b>CLOUD & DEPLOYMENT</b></sub><br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,apache,heroku&theme=dark" height="46" alt="Cloud">
+
+<sub><b>TOOLS & DESIGN</b></sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,ai,ps&theme=dark" height="46" alt="Tools">
+<img src="https://cdn.simpleicons.org/windowsterminal" height="34" alt="Windows Terminal">
+<img src="https://cdn.simpleicons.org/canva" height="34" alt="Canva">
+<img src="https://cdn.simpleicons.org/nvidia" height="34" alt="NVIDIA">
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<!-- Windows 11 style: semi-transparent card + soft border + rounded corners. Works on both light & dark mode -->
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=80808022&border_color=80808055&border_radius=14&title_color=6E7681&text_color=8B949E&icon_color=6E9BD1&ring_color=6E9BD1">
+<img height="180" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=false&bg_color=80808022&border_color=80808055&border_radius=14&title_color=6E7681&text_color=8B949E">
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=false&background=80808022&border=80808055&border_radius=14&stroke=80808055&ring=6E9BD1&fire=6E9BD1&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=6E9BD1&sideLabels=8B949E&dates=6E7681">
+
+</div>
+
+---
+
+<div align="center">
+
+[![Visitors](https://komarev.com/ghpvc/?username=Dharm-prakash&icon=0&color=6E7681&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
