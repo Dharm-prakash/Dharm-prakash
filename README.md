@@ -7,7 +7,7 @@
 <br>
 
 # 👋 Hi, I'm Dharm Prakash
-# We Turn Data into Decision
+### We Turn Data into Decision
 
 ### Statistics Student 
 
