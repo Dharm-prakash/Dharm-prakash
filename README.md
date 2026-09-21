@@ -133,70 +133,81 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 
 <div align="center">
 
-<!-- ================= DARK MODE STATS ================= -->
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 GitHub Stats
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=20&title_size=22&text_bold=true"
+    srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=16"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_radius=20&title_size=22&text_bold=true"
+    srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_radius=16"
   />
 
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&border_radius=20"
-    height="190"
+    src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&border_radius=16"
+    width="100%"
   />
 </picture>
 
-<br><br>
+</td>
 
-<!-- ================= STREAK ================= -->
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=20"
+    srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=16"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&border_radius=20"
+    srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&border_radius=16"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=20"
-    height="190"
+    src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=16"
+    width="100%"
   />
 </picture>
 
-<br><br>
+</td>
 
-<!-- ================= TOP LANGUAGES ================= -->
+</tr>
+</table>
+
+<br>
+
+### 🧠 Most Used Languages
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_radius=20&title_size=22"
+    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_radius=16"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&border_radius=20&title_size=22"
+    srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&border_radius=16"
   />
 
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&border_radius=20"
-    height="190"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=true&bg_color=00000000&border_radius=16"
+    width="55%"
   />
 </picture>
 
 </div>
 
----
 
 ## 🌐 Connect With Me
 
