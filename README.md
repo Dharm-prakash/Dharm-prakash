@@ -8,10 +8,6 @@
 
 <h1>👋 Hi, I'm <strong>Dharm Prakash</strong></h1>
 
-<h3>STATISTICS STUDENT  BHU</h3>
-
-<h2>We Turn <span style="color:#3b82f6;">Data</span> into <span style="color:#8b5cf6;">Decision</span></h2>
-
 <p>
 Passionate about <strong>Data Science, Machine Learning</strong> and
 <strong>Statistical Modeling</strong>, with a curiosity to solve
