@@ -5,6 +5,57 @@
 <img src="./data_analyst.gif" width="100%" alt="Data Analyst Animation"/>
 
 <br>
+<div align="center">
+
+<table>
+<tr>
+<td width="65%" align="left">
+
+<h1>👋 Hi, I'm <strong>Dharm Prakash</strong></h1>
+
+<h3>STATISTICS STUDENT @ BHU</h3>
+
+<h2>We Turn <span style="color:#3b82f6;">Data</span> into <span style="color:#8b5cf6;">Decision</span></h2>
+
+<p>
+Passionate about <strong>Data Science, Machine Learning</strong> and
+<strong>Statistical Modeling</strong>, with a curiosity to solve
+real-world problems using data-driven solutions.
+</p>
+
+<br>
+
+<a href="https://github.com/Dharm-prakash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dharmprakash">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dharmprakash.stats@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./data_analyst.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/📊%20Statistics-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Data%20Science-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💡%20Real--World%20Impact-F59E0B?style=for-the-badge"/>
+
+</div>
+
 
 # 👋 Hi, I'm Dharm Prakash
 ### We Turn Data into Decision
