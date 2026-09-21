@@ -2,14 +2,13 @@
 
 <div align="center">
 
-<img src="./hero.png" width="100%" alt="Dharm Prakash"/>
+<img src="./hero.webp" width="100%" alt="Dharm Prakash"/>
+
+<br>
 
 <!-- Clickable Links -->
-<table width="100%" style="margin-top:-75px;">
-<tr>
-<td width="4%"></td>
 
-<td align="left">
+<div align="left">
 
 <a href="https://github.com/Dharm-prakash">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -27,49 +26,33 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
+
+<br>
+
+<!-- Areas of Interest -->
+
+<img src="https://img.shields.io/badge/📊%20Statistical%20Modeling%20%26%20Data%20Analysis-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20Machine%20Learning%20%26%20Deep%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Generative%20AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏥%20Healthcare%20Analytics-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📈%20Statistical%20Inference%20%26%20Regression-EF4444?style=for-the-badge"/>
 
 </div>
 
-<img src="https://img.shields.io/badge/%20Statistical%20Modeling%20%26%20Data%20Analysis-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20Machine%20Learning%20%26%20Deep%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20Generative%20AI-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20Healthcare%20Analytics-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20Statistical%20Inference%20%26%20Regression-EF4444?style=for-the-badge"/>
 
-
-</div>
-
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,r,c,mysql,sklearn,pytorch,tensorflow,keras,numpy,pandas,matplotlib,git,github,jupyter,excel,powerbi&perline=8" />
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-
----
+<!-- ===================== RESEARCH & PROJECTS ===================== -->
 
 ## 🔬 Research & Projects
 
@@ -111,7 +94,8 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 
 `Logistic Regression` • `Random Forest` • `XGBoost` • `K-Means` • `SMOTE`
 
----
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Statistics
 
@@ -125,43 +109,42 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 ### 💻 GitHub Stats
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=16"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_radius=16"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=16"/>
 
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&border_radius=16"
-    width="100%"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_radius=16"/>
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&border_radius=16"
+width="100%"/>
+
 </picture>
 
 </td>
+
 
 <td width="50%" align="center">
 
 ### 🔥 Contribution Streak
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=16"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&border_radius=16"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=16"/>
 
-  <img
-    src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=16"
-    width="100%"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&border_radius=16"/>
+
+<img
+src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=16"
+width="100%"/>
+
 </picture>
 
 </td>
@@ -169,17 +152,15 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 </tr>
 </table>
 
-<br>
+</div>
 
----
+
+<!-- ===================== RANDOM QUOTE ===================== -->
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
-
----
-
