@@ -167,31 +167,6 @@ width="100%"/>
 
 </div>
 
-### 🔥 Contribution Streak
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=16"/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&border_radius=16"/>
-
-<img
-src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=16"
-width="100%"/>
-
-</picture>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 
 <!-- ===================== RANDOM QUOTE ===================== -->
 
