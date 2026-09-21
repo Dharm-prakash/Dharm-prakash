@@ -1,78 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Dharm Prakash</h1>
+<h3 align="center">I am Dharm Prakash, an M.Sc. Statistics student at BHU with a passion for Data Science & Machine Learning.</h3>
 
-<img src="./assets/banner.svg" alt="Dharm Prakash — We turn data into decision" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharm-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="dharm-prakash" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharm-prakash" alt="dharm-prakash" /></a> </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dharm--prakash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dharm-prakash)
-[![Kaggle](https://img.shields.io/badge/Kaggle-alberto112-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/alberto112)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dharmprakash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmprakash)
-[![Instagram](https://img.shields.io/badge/Instagram-__.alberto__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__.alberto_)
-[![Email](https://img.shields.io/badge/Email-dharmprakash.stats-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dharmprakash.stats@gmail.com)
+- 📫 How to reach me **dharmprakash.stats@gmail.com**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dharmprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmprakash" height="30" width="40" /></a>
+<a href="https://kaggle.com/alberto112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alberto112" height="30" width="40" /></a>
+<a href="https://instagram.com/__.alberto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.alberto_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/alberto112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alberto112" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharm-prakash&show_icons=true&locale=en&layout=compact" alt="dharm-prakash" /></p>
 
-### About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharm-prakash&show_icons=true&locale=en" alt="dharm-prakash" /></p>
 
-I am Dharm Prakash, an M.Sc. Statistics student at BHU with a passion for Data Science & Machine Learning.
-
-`Python` · `C` · `SQL` · `Machine Learning` · `Deep Learning`
-`Statistics` · `Data Analytics` · `Generative AI`
-
-</div>
-
----
-
-<div align="center">
-
-### Tech Stack
-
-<sub><b>LANGUAGES</b></sub><br>
-<img src="https://skillicons.dev/icons?i=c,py,r&theme=dark" height="46" alt="Languages">
-<img src="https://cdn.simpleicons.org/oracle" height="34" alt="Oracle">
-
-<sub><b>MACHINE LEARNING & DEEP LEARNING</b></sub><br>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,keras,pytorch,scipy&theme=dark" height="46" alt="ML and DL">
-<img src="https://cdn.simpleicons.org/mlflow" height="34" alt="MLflow">
-
-<sub><b>DATA & VISUALIZATION</b></sub><br>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" height="46" alt="Data">
-
-<sub><b>CLOUD & DEPLOYMENT</b></sub><br>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,apache,heroku&theme=dark" height="46" alt="Cloud">
-
-<sub><b>TOOLS & DESIGN</b></sub><br>
-<img src="https://skillicons.dev/icons?i=git,github,ai,ps&theme=dark" height="46" alt="Tools">
-<img src="https://cdn.simpleicons.org/windowsterminal" height="34" alt="Windows Terminal">
-<img src="https://cdn.simpleicons.org/canva" height="34" alt="Canva">
-<img src="https://cdn.simpleicons.org/nvidia" height="34" alt="NVIDIA">
-
-</div>
-
----
-
-<div align="center">
-
-### GitHub Stats
-
-<!-- Windows 11 style: semi-transparent card + soft border + rounded corners. Works on both light & dark mode -->
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=80808022&border_color=80808055&border_radius=14&title_color=6E7681&text_color=8B949E&icon_color=6E9BD1&ring_color=6E9BD1">
-<img height="180" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dharm-prakash&layout=compact&hide_border=false&bg_color=80808022&border_color=80808055&border_radius=14&title_color=6E7681&text_color=8B949E">
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=false&background=80808022&border=80808055&border_radius=14&stroke=80808055&ring=6E9BD1&fire=6E9BD1&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=6E9BD1&sideLabels=8B949E&dates=6E7681">
-
-</div>
-
----
-
-<div align="center">
-
-[![Visitors](https://komarev.com/ghpvc/?username=Dharm-prakash&icon=0&color=6E7681&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharm-prakash&" alt="dharm-prakash" /></p>
