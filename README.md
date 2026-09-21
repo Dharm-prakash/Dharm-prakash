@@ -170,11 +170,14 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 
 <br>
 
+---
 
-### 💡 *Turning Data into Insights, Models into Solutions.*
+## ✍️ Random Dev Quote
 
-<br>
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dharm-prakash&style=flat-square&color=0969DA)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+---
