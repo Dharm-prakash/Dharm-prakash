@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/YOUR_USERNAME">
+<a href="https://www.kaggle.com/alberto112">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
@@ -32,11 +32,11 @@
 
 <!-- Areas of Interest -->
 
-<img src="https://img.shields.io/badge/📊%20Statistical%20Modeling%20%26%20Data%20Analysis-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖%20Machine%20Learning%20%26%20Deep%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20Generative%20AI-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏥%20Healthcare%20Analytics-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📈%20Statistical%20Inference%20%26%20Regression-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Statistical%20Modeling%20%26%20Data%20Analysis-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Machine%20Learning%20%26%20Deep%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Generative%20AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Healthcare%20Analytics-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Statistical%20Inference%20%26%20Regression-EF4444?style=for-the-badge"/>
 
 </div>
 
@@ -108,6 +108,42 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 
 ### 💻 GitHub Stats
 
+<div align="center">
+
+<table>
+<tr>
+
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
+
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border_radius=16"/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&border_radius=16"/>
+
+<img
+src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=16"
+width="100%"/>
+
+</picture>
+
+</td>
+
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<td width="50%" align="center">
+
+### 💻 GitHub Stats
+
 <picture>
 
 <source
@@ -126,8 +162,10 @@ width="100%"/>
 
 </td>
 
+</tr>
+</table>
 
-<td width="50%" align="center">
+</div>
 
 ### 🔥 Contribution Streak
 
@@ -157,7 +195,7 @@ width="100%"/>
 
 <!-- ===================== RANDOM QUOTE ===================== -->
 
-## ✍️ Random Dev Quote
+## ✍️ Quote
 
 <div align="center">
 
