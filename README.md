@@ -232,3 +232,81 @@ Built a machine learning based credit-risk prediction and customer segmentation 
 </div>
 
 ---
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<!-- LEFT SIDE -->
+<td width="58%" align="left">
+
+<br>
+
+<img src="https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-EAFBF2?style=for-the-badge&labelColor=EAFBF2&color=EAFBF2"/>
+
+<br><br>
+
+# 👋 Hi, I'm **Dharm Prakash**
+
+### `STATISTICS STUDENT @ BHU`
+
+---
+
+## We Turn **Data** into **Decision**
+
+<p>
+Passionate about <b>Data Science, Machine Learning</b> and
+<b>Statistical Modeling</b>, with a curiosity to solve real-world
+problems and build meaningful, data-driven solutions.
+</p>
+
+<br>
+
+<a href="https://github.com/Dharm-prakash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dharmprakash">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dharmprakash.stats@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+
+<!-- RIGHT SIDE -->
+<td width="42%" align="center">
+
+<img src="./data_analyst.gif" width="420"/>
+
+<br>
+
+<sub><b>Learn • Build • Analyze • Repeat</b></sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- BOTTOM SKILL PILLS -->
+
+<img src="https://img.shields.io/badge/📊%20Statistics-E8F1FF?style=for-the-badge&labelColor=E8F1FF&color=E8F1FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-F0E9FF?style=for-the-badge&labelColor=F0E9FF&color=F0E9FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💻%20Data%20Science-E8F8F0?style=for-the-badge&labelColor=E8F8F0&color=E8F8F0"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💡%20Real--World%20Impact-FFF4DF?style=for-the-badge&labelColor=FFF4DF&color=FFF4DF"/>
+
+<br><br>
+
+</div>
+
+
+
