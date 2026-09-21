@@ -131,7 +131,7 @@ srcset="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&ba
 
 <img
 src="https://streak-stats.demolab.com/?user=Dharm-prakash&hide_border=true&background=00000000&border_radius=16"
-width="100%"/>
+width="400"/>
 
 </picture>
 
@@ -156,7 +156,7 @@ srcset="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_ic
 
 <img
 src="https://github-readme-stats.shion.dev/api?username=Dharm-prakash&show_icons=true&hide_border=true&bg_color=00000000&border_radius=16"
-width="100%"/>
+width="400"/>
 
 </picture>
 
@@ -166,7 +166,6 @@ width="100%"/>
 </table>
 
 </div>
-
 
 <!-- ===================== RANDOM QUOTE ===================== -->
 
