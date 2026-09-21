@@ -8,7 +8,6 @@
 
 # 👋 Hi, I'm Dharm Prakash
 ### We Turn Data into Decision
-
 ### Statistics Student 
 
 <p>
@@ -79,7 +78,7 @@ Research project at **IIT BHU** exploring the impact of missing-data imputation 
 
 **Focus Areas:**
 
-`MCAR` • `MAR` • `MNAR` • `Imputation` • `Fairness` • `SHAP` • `Diffusion Models`
+`MCAR` • `MAR` • `MNAR` • `Imputation` • `Fairness` • `SHAP` • `Diffusion Models` • `DiffPuter`
 
 ---
 
