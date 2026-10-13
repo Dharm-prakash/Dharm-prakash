@@ -54,49 +54,6 @@
 
 <!-- ===================== RESEARCH & PROJECTS ===================== -->
 
-## 🔬 Research & Projects
-
-### 🧩 Missing Data Imputation, Fairness & Explainability
-
-Research project at **IIT BHU** exploring the impact of missing-data imputation on machine learning fairness and explainability.
-
-**Focus Areas:**
-
-`MCAR` • `MAR` • `MNAR` • `Imputation` • `Fairness` • `SHAP` • `Diffusion Models` • `DiffPuter`
-
----
-
-### 🏥 Multi-Class Bladder Cancer Classification
-
-Machine learning approach for classifying bladder cancer and related diseases using clinical laboratory data.
-
-**Techniques:**
-
-`Feature Engineering` • `Mutual Information` • `SMOTE` • `Cross-Validation` • `AUC`
-
----
-
-### 🧬 MSI Prediction from Histopathology Images
-
-Deep learning pipeline for predicting **MSI vs MSS status** from colorectal cancer histopathology images.
-
-**Models:**
-
-`CNN` • `ResNet-50` • `Transfer Learning` • `Data Augmentation` • `FP16`
-
----
-
-### 💳 Credit Card Default Risk & Customer Segmentation
-
-Built a machine learning based credit-risk prediction and customer segmentation system.
-
-**Techniques:**
-
-`Logistic Regression` • `Random Forest` • `XGBoost` • `K-Means` • `SMOTE`
-
-
-<!-- ===================== GITHUB STATS ===================== -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
